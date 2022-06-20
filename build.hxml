@@ -2,7 +2,3 @@
 --dce full
 --main Main
 --cpp out/cpp
-
---cmd echo
-
---cmd ./out/cpp/Main
